@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+Test/Test/Test1/.vs/
+
+Test/Test/Test1/Test1/bin/
+
+Test/Test/Test1/Test1/obj/
